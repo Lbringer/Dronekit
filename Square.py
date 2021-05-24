@@ -5,7 +5,6 @@ import time
 import pygame
 
 pygame.init()
-pygame.font.init()
 
 gnd_speed = 5
 
