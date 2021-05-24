@@ -1,10 +1,6 @@
 from dronekit import VehicleMode,connect
-from pygame.constants import K_DOWN, K_LEFT, K_RIGHT, K_UP
 from pymavlink import mavutil
 import time
-import pygame
-
-pygame.init()
 
 gnd_speed = 5
 
